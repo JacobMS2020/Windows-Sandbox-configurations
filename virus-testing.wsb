@@ -1,0 +1,6 @@
+<Configuration>
+    <Networking>Disable</Networking>
+    <ProtectedClient>Enable</ProtectedClient>
+    <PrinterRedirection>Disable</PrinterRedirection>
+    <ClipboardRedirection>Disable</ClipboardRedirection>
+</Configuration>
